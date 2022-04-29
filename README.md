@@ -3,4 +3,4 @@
 
 Plugin allows to manage colors and styles of couple JS keywords:
 
-![Screenshot][file:img.png]
+![](.github/readme/screenshot.png)
