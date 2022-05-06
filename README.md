@@ -8,8 +8,6 @@ Open Settings
 -> Editor Tab 
 -> Color Scheme 
 -> Javascript Additions
-
-Like on this screenshot:
 ```
 ![](.github/readme/screenshot.png)
 ```
