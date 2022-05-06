@@ -4,7 +4,7 @@
 Plugin allows to manage colors and styles of couple JS keywords.
 
 ```
-Open Settings (C
+Open Settings
 -> Editor Tab 
 -> Color Scheme 
 -> Javascript Additions
